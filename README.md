@@ -17,3 +17,5 @@ We recommend implementing our tips to get an edge up on the competition.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+!(image)(https://utah.bootcampcontent.com/utah-coding-bootcamp/UofU-VIRT-FSF-PT-02-2023-U-LOLC/-/raw/main/01%20-%20Class%20Content/01-HTML-Git-CSS/02-Challenge/Assets/01-html-css-git-homework-demo.png)
